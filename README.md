@@ -9,3 +9,5 @@ Làm cái ứng dụng như đã nêu ra
 Lên ý tưởng đề bắt đầu làm
 
 lấy khung xương trước
+
+làm cả hai ứng dụng android và ios
